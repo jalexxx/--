@@ -1,1 +1,1 @@
-# -- A game project that was inspired by spirited away - the studio ghbili film
+# -- A game project that was inspired by spirited away - the studio ghbili film, its a 2d platform game which the basic mechniasms of backward,forward, up and jump movements. Which the charcters collects collectables ad try to suprass the enemeies it encounters in order to collect the collectables. 
